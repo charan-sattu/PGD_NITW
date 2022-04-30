@@ -13,6 +13,3 @@ This repo is the course work of [PGD in Artificial Intelligence by E&ICT Academy
 8. Reinforcement Learning
 9. Natural Language Processing
 10. Deep Learning (Computer Vision)
-
-
-[pppp](/Assignments/ReadMe)
