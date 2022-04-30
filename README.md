@@ -1,4 +1,5 @@
-# PGD_NITW
+#  Post Graduate Diploma, NIT Warangal _(offered by Edureka)_ Solutions 
+
 This repo is the course work of [PGD in Artificial Intelligence by E&ICT Academy, NITW](https://www.edureka.co/post-graduate/machine-learning-and-ai).
 
 # Topics Covered
