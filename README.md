@@ -1,5 +1,6 @@
 # PGD_NITW
 This repo is the course work of the PGD program offered by E&amp;ICT academy, NITW.
+Post Graduate Program in Artificial Intelligence and Machine Learning
 
 # Topics Covered
 1. Python
