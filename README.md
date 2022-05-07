@@ -19,3 +19,5 @@ This repo is the course work of [PGD in Artificial Intelligence by E&ICT Academy
 
 * [Assignments](Assignments)
   * [Introduction to Python](https://github.com/charan-sattu/PGD_NITW/tree/main/Assignments/Introduction%20to%20Python)
+  * [Sequences and File Operations](https://github.com/charan-sattu/PGD_NITW/tree/main/Assignments/Sequences%20and%20File%20Operations)
+  * [Working with Modules and Handling Exceptions](https://github.com/charan-sattu/PGD_NITW/tree/main/Assignments/Working%20with%20Modules%20and%20Handling%20Exceptions)
