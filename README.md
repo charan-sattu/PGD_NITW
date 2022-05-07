@@ -18,3 +18,4 @@ This repo is the course work of [PGD in Artificial Intelligence by E&ICT Academy
 ## Solutions
 
 - [Assignments](Assignments)
+- [Introduction to Python](https://github.com/charan-sattu/PGD_NITW/tree/main/Assignments/Introduction%20to%20Python)
